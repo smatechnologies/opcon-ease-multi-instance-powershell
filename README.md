@@ -1,7 +1,7 @@
 # OpCon Multi Instance EASE Connector Scripts
 **Warning**: EASE offers both a standard and a premium solution for the EASE Connector. These scripts are the premium solution. Please reach out to your EASE representative to get more information on how gain access to this premium offering.   
 
-The scripts within this repo are used to connect to the OpCon API within EASE's environment to launch and monitor the specified Jobs. Only authorized users can connect and only the specified Jobs can be run. This premium version allows multiple jobs to run concurrently.  
+The scripts within this repository are used to connect to the OpCon API within EASE's environment to launch and monitor the specified OpCon Jobs. Only authorized users can connect and only the specified Jobs within the specified Schedule can be run. The premium version of the EASE Connector allows multiple EASE Connector jobs to run concurrently.  
 
 # Disclaimer
 No Support and No Warranty are provided by SMA Technologies for this project and related material. The use of this project's files is on your own risk.
